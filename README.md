@@ -7,3 +7,6 @@ Salut à toi, tu pourrais lire mon message à l'aide te y repondre dans un nouve
 #Salut ma petite couille, alors figure toi que je vais essayer de t'aider
 Bien Cordialement
 Kemenouille
+
+#Merci bb
+
